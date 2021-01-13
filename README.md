@@ -1,23 +1,18 @@
-## Assignment1:: Take Away and Near Away Project
+## Restaurant-App-Javascript-ES6-PHP Project
 
-#Demo Video 
-https://drive.google.com/file/d/1ieyWs3-Ow1TEE6pJVmIMu5huzyWpkqA6/view
+#Demo Snapshot 
+![alt text](https://github.com/ch-hassansaeed/Restaurant-App-Javascript-ES6-PHP/blob/master/Screenshot_app.jpg)
 
-# This Take Away and Near Away application built in two projects (because you didn't mention any language but as takeaway using ES6 and laravel that's why I am using laravel, ES6 and PHP for these projects)
-project 1: ES6 javascript+PHP 
-project2: laravel +ES6
-for run both project we require PHP server because it needs to read JSON API endpoint
 
-these are the name of project folders
-project 1:takeaway_js : ES6 Javascript+PHP  (you can run it in wamp,xamp or other php servers)
-project 2:takeaway_restaurants_app : laravel +ES6  (you can directly run it with laravel server 'php artisan serve' command)
+ES6 Javascript+PHP  (you can run it in wamp,xamp or other php servers because it needs to read JSON API endpoint)
+
 
 #Note: both projects have the same functionalities 
 
 #Features of this project
--As sample.json don't have images path so I am showing pictures randomly from images folder for presentable GUI
--we can search for any restaurant by title (using contain filter)
--we can add any restaurant as a favourite/bookmark 
+-As sample.json don't have images path so I am showing pictures randomly from images folder for presentable GUI <br />
+-we can search for any restaurant by title (using contain filter) <br />
+-we can add any restaurant as a favourite/bookmark  <br />
 -even we can show all favourites restaurants with toggle button 
 -on restaurants listing page restaurants are sorted with following groups and filters criteria
 #restaurants group by criteria:-
