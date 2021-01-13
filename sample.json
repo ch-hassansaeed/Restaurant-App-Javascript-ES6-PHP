@@ -1,6 +1,6 @@
 {
 	"restaurants": [{
-		"name": "Tanoshii Sushi",
+		"name": "Tanoshi Susi",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 0.0,
@@ -13,7 +13,7 @@
 			"minCost": 1000
 		}
 	}, {
-		"name": "Tandoori Express",
+		"name": "Tandori Expres",
 		"status": "closed",
 		"sortingValues": {
 			"bestMatch": 1.0,
@@ -26,7 +26,7 @@
 			"minCost": 1300
 		}
 	}, {
-		"name": "Royal Thai",
+		"name": "Royal Thi",
 		"status": "order ahead",
 		"sortingValues": {
 			"bestMatch": 2.0,
@@ -39,7 +39,7 @@
 			"minCost": 2500
 		}
 	}, {
-		"name": "Sushi One",
+		"name": "Suhi On",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 3.0,
@@ -52,7 +52,7 @@
 			"minCost": 1200
 		}
 	}, {
-		"name": "Roti Shop",
+		"name": "Rote Shp",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 4.0,
@@ -65,7 +65,7 @@
 			"minCost": 2000
 		}
 	}, {
-		"name": "Aarti 2",
+		"name": "Arti 23",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 5.0,
@@ -78,7 +78,7 @@
 			"minCost": 500
 		}
 	}, {
-		"name": "Pizza Heart",
+		"name": "Piza Heat",
 		"status": "order ahead",
 		"sortingValues": {
 			"bestMatch": 6.0,
@@ -91,7 +91,7 @@
 			"minCost": 1500
 		}
 	}, {
-		"name": "Mama Mia",
+		"name": "MamMia",
 		"status": "order ahead",
 		"sortingValues": {
 			"bestMatch": 7.0,
@@ -104,7 +104,7 @@
 			"minCost": 1000
 		}
 	}, {
-		"name": "Feelfood",
+		"name": "Feels foods",
 		"status": "order ahead",
 		"sortingValues": {
 			"bestMatch": 8.0,
@@ -117,7 +117,7 @@
 			"minCost": 1500
 		}
 	}, {
-		"name": "Daily Sushi",
+		"name": "Dailys Suhi",
 		"status": "closed",
 		"sortingValues": {
 			"bestMatch": 9.0,
@@ -130,7 +130,7 @@
 			"minCost": 1000
 		}
 	}, {
-		"name": "Pamukkale",
+		"name": "Pamuk kales",
 		"status": "closed",
 		"sortingValues": {
 			"bestMatch": 10.0,
@@ -143,7 +143,7 @@
 			"minCost": 2000
 		}
 	}, {
-		"name": "Indian Kitchen",
+		"name": "Indians Kitchens",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 11.0,
@@ -156,7 +156,7 @@
 			"minCost": 1300
 		}
 	}, {
-		"name": "CIRO 1939",
+		"name": "CIROs 1949",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 12.0,
@@ -169,7 +169,7 @@
 			"minCost": 1300
 		}
 	}, {
-		"name": "Zenzai Sushi",
+		"name": "Znzais Sushis",
 		"status": "closed",
 		"sortingValues": {
 			"bestMatch": 13.0,
@@ -182,7 +182,7 @@
 			"minCost": 2000
 		}
 	}, {
-		"name": "Fes Patisserie",
+		"name": "Fese Patisseries",
 		"status": "order ahead",
 		"sortingValues": {
 			"bestMatch": 14.0,
@@ -195,7 +195,7 @@
 			"minCost": 1250
 		}
 	}, {
-		"name": "Yvonne's Vispaleis",
+		"name": "Yvonnes Vispalei",
 		"status": "order ahead",
 		"sortingValues": {
 			"bestMatch": 15.0,
@@ -208,7 +208,7 @@
 			"minCost": 1750
 		}
 	}, {
-		"name": "De Amsterdamsche Tram",
+		"name": "DeAmsterdamsche Trams",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 304.0,
@@ -221,7 +221,7 @@
 			"minCost": 0
 		}
 	}, {
-		"name": "Lale Restaurant & Snackbar",
+		"name": "Lali Restaurant Snackbars",
 		"status": "order ahead",
 		"sortingValues": {
 			"bestMatch": 305.0,
@@ -234,7 +234,7 @@
 			"minCost": 0
 		}
 	}, {
-		"name": "Lunchpakketdienst",
+		"name": "Lunch pakket diensts",
 		"status": "open",
 		"sortingValues": {
 			"bestMatch": 306.0,
