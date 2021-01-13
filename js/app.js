@@ -10,7 +10,7 @@ var restaurantsList;//for sorting global restaurants instead of each time load j
 const restaurantSortingBy = document.getElementById('restaurant_sorting_by');
 var restaurantSortingByVale=restaurantSortingBy.value;//sorted by combobox/select value
 
-//************************* Event Handlers ***********************************/
+//************************* Event Handlers **********************************/
 //page load/startup
 window.addEventListener('load', function(){
   //on startup or load page:: sort restaurants by best match and grouping
